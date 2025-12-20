@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Day One",
+  "base_artist": "NITRO MICROPHONE UNDERGROUND",
+  "createdAt": "2025-12-20T08:24:18.815895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Some Day One Day",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/01_Some_Day_One_Day_Queen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Day One",
+      "artist": "Tom Hooker",
+      "has_synced": false,
+      "path": "select/02_Day_One_Tom_Hooker.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Day One",
+      "artist": "Blackalicious",
+      "has_synced": true,
+      "path": "select/03_Day_One_Blackalicious.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Day One Oblivion",
+      "artist": "Semblant",
+      "has_synced": false,
+      "path": "select/04_Day_One_Oblivion_Semblant.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Day One: Vigil - live",
+      "artist": "Stream of Passion",
+      "has_synced": false,
+      "path": "select/05_Day_One__Vigil_-_live_Stream_of_Passion.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Day One: Vigil",
+      "artist": "Stream Of Passion",
+      "has_synced": false,
+      "path": "select/06_Day_One__Vigil_Stream_Of_Passion.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Day One: Vigil",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/07_Day_One__Vigil_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Day One",
+      "artist": "Toro y Moi",
+      "has_synced": true,
+      "path": "select/08_Day_One_Toro_y_Moi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One More Day, One More Night",
+      "artist": "Tom Petty and the Heartbreakers",
+      "has_synced": true,
+      "path": "select/09_One_More_Day,_One_More_Night_Tom_Petty_and_the_Heartbreakers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One More Day, One More Night",
+      "artist": "Tom Petty & The Heartbreakers",
+      "has_synced": true,
+      "path": "select/10_One_More_Day,_One_More_Night_Tom_Petty_&_The_Heartbreakers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Day One (with Pharrell & Pusha T)",
+      "artist": "Calvin Harris feat. Pharrell Williams & Pusha T",
+      "has_synced": true,
+      "path": "select/11_Day_One_(with_Pharrell_&_Pusha_T)_Calvin_Harris_feat._Pharrell_Williams_&_Pusha_T.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Day One",
+      "artist": "NITRO MICROPHONE UNDERGROUND",
+      "has_synced": false,
+      "path": "select/pl_01_Day_One_NITRO_MICROPHONE_UNDERGROUND.txt"
+    }
+  ]
+}
